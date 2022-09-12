@@ -1,0 +1,12 @@
+C:\Users\localadm\source\repos\ExternalModels\bin\Debug\net6.0\ExternalModels.deps.json
+C:\Users\localadm\source\repos\ExternalModels\bin\Debug\net6.0\ExternalModels.dll
+C:\Users\localadm\source\repos\ExternalModels\bin\Debug\net6.0\ExternalModels.pdb
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.csproj.AssemblyReference.cache
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.AssemblyInfoInputs.cache
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.AssemblyInfo.cs
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.csproj.CoreCompileInputs.cache
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.dll
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\refint\ExternalModels.dll
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ExternalModels.pdb
+C:\Users\localadm\source\repos\ExternalModels\obj\Debug\net6.0\ref\ExternalModels.dll
